@@ -3,4 +3,4 @@
 </p>
 
 ## The new UK OSA (Online-Safety-Act) is immoral and privacy invasive.
-## This is a set of tools and resources to do our best to bypass it
+## This is a set of (hopefully) extensive resources on how to avoid censorship in 2025
